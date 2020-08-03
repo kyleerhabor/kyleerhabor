@@ -11,4 +11,7 @@ I've been coding for a while now and know **6** programming languages (from most
 
 I'm currently learning **Python** and looking into building a **Graphical User Interface**. Although I have little knowledge in building GUIs, I'll still enjoy the mountain I travel learning it. 😄
 
-Discord: Lite#0001
+### Social Media
+Discord: `Lite#0001`
+
+[Anime List](https://anilist.co/user/LiteLT/) | [Steam](https://steamcommunity.com/id/LiteLT/)
