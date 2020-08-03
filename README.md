@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello!
+My name is Lite, but I go by LiteLT on this site. The LT in my name stands for lightest.
 
-<!--
-**LiteLT/LiteLT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been coding for a while now and know **6** programming languages (from most to least experience):
+    - JavaScript
+    - Python
+    - Kotlin
+    - Swift
+    - Rust
+    - Java
 
-Here are some ideas to get you started:
+I'm currently learning **Python** and looking into building a **Graphical User Interface**. Although I have little knowledge in building GUIs, I'll still enjoy the mountain I travel learning it. 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Discord: Lite#0001
