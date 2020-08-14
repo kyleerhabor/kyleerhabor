@@ -1,7 +1,7 @@
 # Hello!
 
 ## About Me
-My name is Lite, but I go by LiteLT on this site (LT stands for lightest). I've been a developer about **~2 years** and aiming to be a **Software Engineer** in the future. I started programming by building simple bots (JavaScript was my first language) on platforms like Discord. As time went on, I started using other languages and making other stuff. At the moment, I use **Python** as my main scripting language over JavaScript.
+My name is Lite, but I go by LiteLT on this site (LT stands for lightest). I've been a developer about **~2 years** and aiming to be a **Software Engineer** in the future. I started programming by building simple bots (JavaScript was my first language) on platforms like Discord. As time went on, I started using other languages and making other stuff. At the moment, I use **Python** as my main scripting language over JavaScript and building a **graphical user interface** with **SwiftUI**.
 
 I am somewhat active on this site, but mostly active on Discord. Feel free to talk to me in DMs (**Lite#0001**). 😃
 - - -
