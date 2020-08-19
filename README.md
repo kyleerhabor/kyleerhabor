@@ -17,7 +17,7 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 
 ### Frameworks
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat)
+![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swiftui&logoColor=white)
 
 ### Development Software
 ![](https://img.shields.io/badge/Xcode-Software-yellow?style=flat&logo=xcode&logoColor=white)
@@ -25,7 +25,7 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ![](https://img.shields.io/badge/WebStorm-Software-yellow?style=flat&logo=webstorm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-Software-yellow?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-Software-yellow?style=flat&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/CLion-Software-yellow?style=flat)
+![](https://img.shields.io/badge/CLion-Software-yellow?style=flat&logo=clion&logoColor=white)
 
 ### Social Media
 ![](https://img.shields.io/badge/Discord_%28Lite%230001%29-Social_Media-green?style=flat&logo=discord&logoColor=white)
