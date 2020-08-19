@@ -30,7 +30,7 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ### Social Media
 ![](https://img.shields.io/badge/Discord_%28Lite%230001%29-Social_Media-green?style=flat&logo=discord&logoColor=white)
 ![](https://img.shields.io/badge/Steam-Social_Media-green?style=flat&logo=steam&logoColor=white)
-![](https://img.shields.io/badge/AniList-Social_Media-green?style=flat)
-![](https://img.shields.io/badge/MyAnimeList-Social_Media-green?style=flat)
+![](https://img.shields.io/badge/AniList-Social_Media-green?style=flat&logo=anilist&logoColor=white)
+![](https://img.shields.io/badge/MyAnimeList-Social_Media-green?style=flat&logo=myanimelist&logoColor=myanimelist)
 
 [AniList](https://anilist.co/user/LiteLT/) | [MyAnimeList](https://myanimelist.net/profile/LiteLT) | [Steam](https://steamcommunity.com/id/LiteLT/)
