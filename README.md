@@ -22,9 +22,9 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ### Development Software
 ![](https://img.shields.io/badge/Xcode-Software-yellow?style=flat&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-Software-yellow?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-Software-yellow?style=flat&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/WebStorm-Software-yellow?style=flat&logo=webstorm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-Software-yellow?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-Software-yellow?style=flat&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/CLion-Software-yellow?style=flat&logo=clion&logoColor=white)
 
 ### Social Media
