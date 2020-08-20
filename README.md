@@ -17,7 +17,7 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 
 ### Frameworks
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swiftui&logoColor=white)
+![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white) <!-- Change this when SwiftUI label comes out -->
 
 ### Development Software
 ![](https://img.shields.io/badge/Xcode-Software-yellow?style=flat&logo=xcode&logoColor=white)
