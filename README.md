@@ -19,7 +19,7 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white) <!-- Change this when SwiftUI label comes out -->
 
-### Software & Tools
+### Software
 ![](https://img.shields.io/badge/Git-Software-yellow?style=flat&logo=git&logoColor=white)
 
 ### IDEs & Code Editors
