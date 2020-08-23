@@ -20,6 +20,7 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white) <!-- Change this when SwiftUI label comes out -->
 
 ### Development Software
+![](https://img.shields.io/badge/Git-Software-yellow?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Xcode-Software-yellow?style=flat&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-Software-yellow?style=flat&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-Software-yellow?style=flat&logo=pycharm&logoColor=white)
