@@ -19,19 +19,21 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white) <!-- Change this when SwiftUI label comes out -->
 
-### Development Software
+### Software & Tools
 ![](https://img.shields.io/badge/Git-Software-yellow?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Xcode-Software-yellow?style=flat&logo=xcode&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-Software-yellow?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-Software-yellow?style=flat&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/WebStorm-Software-yellow?style=flat&logo=webstorm&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-Software-yellow?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/CLion-Software-yellow?style=flat&logo=clion&logoColor=white)
+
+### IDEs & Code Editors
+![](https://img.shields.io/badge/Xcode-Software-green?style=flat&logo=xcode&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-Software-green?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-Software-green?style=flat&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/WebStorm-Software-green?style=flat&logo=webstorm&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-Software-green?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/CLion-Software-green?style=flat&logo=clion&logoColor=white)
 
 ### Social Media
-![](https://img.shields.io/badge/Discord_%28Lite%230001%29-Social_Media-green?style=flat&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/Steam-Social_Media-green?style=flat&logo=steam&logoColor=white)
-![](https://img.shields.io/badge/AniList-Social_Media-green?style=flat&logo=anilist&logoColor=white)
-![](https://img.shields.io/badge/MyAnimeList-Social_Media-green?style=flat&logo=myanimelist&logoColor=myanimelist)
+![](https://img.shields.io/badge/Discord_%28Lite%230001%29-Social_Media-blue?style=flat&logo=discord&logoColor=white)
+![](https://img.shields.io/badge/Steam-Social_Media-blue?style=flat&logo=steam&logoColor=white)
+![](https://img.shields.io/badge/AniList-Social_Media-blue?style=flat&logo=anilist&logoColor=white)
+![](https://img.shields.io/badge/MyAnimeList-Social_Media-blue?style=flat&logo=myanimelist&logoColor=myanimelist)
 
 [AniList](https://anilist.co/user/LiteLT/) | [MyAnimeList](https://myanimelist.net/profile/LiteLT) | [Steam](https://steamcommunity.com/id/LiteLT/)
