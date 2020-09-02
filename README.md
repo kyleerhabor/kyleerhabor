@@ -32,9 +32,5 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ![](https://img.shields.io/badge/CLion-Software-green?style=flat&logo=clion&logoColor=white)
 
 ### Social Media
-![](https://img.shields.io/badge/Discord_%28Lite%230001%29-Social_Media-blue?style=flat&logo=discord&logoColor=white)
-![](https://img.shields.io/badge/Steam-Social_Media-blue?style=flat&logo=steam&logoColor=white)
-![](https://img.shields.io/badge/AniList-Social_Media-blue?style=flat&logo=anilist&logoColor=white)
-![](https://img.shields.io/badge/MyAnimeList-Social_Media-blue?style=flat&logo=myanimelist&logoColor=myanimelist)
 
-[AniList](https://anilist.co/user/LiteLT/) | [MyAnimeList](https://myanimelist.net/profile/LiteLT) | [Steam](https://steamcommunity.com/id/LiteLT/)
+Discord: **Lite#0001** | [AniList](https://anilist.co/user/LiteLT/) | [MyAnimeList](https://myanimelist.net/profile/LiteLT) | [Steam](https://steamcommunity.com/id/LiteLT/)
