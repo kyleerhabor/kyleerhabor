@@ -1,19 +1,23 @@
 # Hello!
 
 ## About Me
-My name is Lite, but I go by LiteLT on this site (LT stands for lightest). I've been a developer about **~2 years** and aiming to be a **Software Engineer** in the future. I started programming by building simple bots (JavaScript was my first language) on platforms like Discord. As time went on, I started using other languages and making other stuff. At the moment, I use **Python** as my main scripting language over JavaScript and building a **graphical user interface** with **SwiftUI**.
+My name is Lite, but I go by LiteLT on this site (LT stands for lightest). I also go by the name **Moon** occasionally.
 
-I am somewhat active on this site, but mostly active on Discord. Feel free to talk to me in DMs (**Lite#0001**). 😃
+I've been a developer for **~2 years** and aiming to be a **Software Engineer** in the future. My favorite language is **Python** and I'm currently learning **Rust** in my free time.
 
-## Technology & External Sources
+I started programming by learning HTML & CSS to build a simple website, but eventually gave up as I found more interest in building bots. The first programming language I learned was **JavaScript**. As time went on, I started using other languages and frameworks, such as learning **Swift** to build a GUI with **SwiftUI**.
+
+I'm quite active on this site, but spend most of my time on Discord. If you'd like to talk, please direct message me (**Lite#0001**). I like communicating. 😄
+
+## Technologies & External Links
 ### Languages
 <!-- https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white -->
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Swift-Language-red?style=flat&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/Dart-Language-red?style=flat&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 
 ### Frameworks
@@ -32,5 +36,4 @@ I am somewhat active on this site, but mostly active on Discord. Feel free to ta
 ![](https://img.shields.io/badge/CLion-Software-green?style=flat&logo=clion&logoColor=white)
 
 ### Social Media
-
-Discord: **Lite#0001** | [AniList](https://anilist.co/user/LiteLT/) | [MyAnimeList](https://myanimelist.net/profile/LiteLT) | [Steam](https://steamcommunity.com/id/LiteLT/)
+[Anime List](https://anilist.co/user/LiteLT/) | [Steam](https://steamcommunity.com/id/LiteLT/)
