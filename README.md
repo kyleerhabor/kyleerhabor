@@ -7,7 +7,7 @@ I've been a developer for **~2 years** and aiming to be a **Software Engineer** 
 
 I started programming by learning HTML & CSS to build a simple website, but eventually gave up as I found more interest in building bots. The first programming language I learned was **JavaScript**. As time went on, I started using other languages and frameworks, such as learning **Swift** to build a GUI with **SwiftUI**.
 
-I'm quite active on this site, but spend most of my time on Discord. If you'd like to talk, please direct message me (**Lite#0001**). I like communicating. 😄
+I'm quite active on this site, but spend most of my time on Discord. If you'd like to talk, please direct message me (**Lite#0001**).
 
 ## Technologies & External Links
 ### Languages
