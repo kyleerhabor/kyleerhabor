@@ -31,6 +31,7 @@ I'm quite active on this site, but spend most of my time on Discord. If you'd li
 ![](https://img.shields.io/badge/Homebrew-Software-yellow?style=flat&logo=homebrew&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-Software-yellow?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Postman-Software-yellow?style=flat&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Insomnia-Software-yellow?style=flat&logo=insomnia&logoColor=white)
 
 ### IDEs & Code Editors
 ![](https://img.shields.io/badge/Xcode-Software-green?style=flat&logo=xcode&logoColor=white)
