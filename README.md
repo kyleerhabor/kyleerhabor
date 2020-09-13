@@ -15,8 +15,8 @@ I'm quite active on this site, but spend most of my time on Discord. If you'd li
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Swift-Language-red?style=flat&logo=swift&logoColor=white)
-![](https://img.shields.io/badge/Dart-Language-red?style=flat&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
+![](https://img.shields.io/badge/Dart-Language-red?style=flat&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white) <!-- In case the SQL label ever comes out -->
