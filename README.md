@@ -9,7 +9,7 @@ I started programming by learning HTML & CSS to build a simple website, but even
 
 I'm quite active on this site, but spend most of my time on Discord. If you'd like to talk, please direct message me (**Lite#0001**).
 
-## Technologies & External Links
+## Technologies
 ### Languages
 <!-- https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white -->
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
@@ -26,20 +26,25 @@ I'm quite active on this site, but spend most of my time on Discord. If you'd li
 ![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white) <!-- Change this if SwiftUI label comes out -->
 
 ### Software
-![](https://img.shields.io/badge/Git-Software-yellow?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-Software-yellow?style=flat&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/Homebrew-Software-yellow?style=flat&logo=homebrew&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-Software-yellow?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-Software-yellow?style=flat&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Postman-Software-yellow?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Insomnia-Software-yellow?style=flat&logo=insomnia&logoColor=white)
 
-### IDEs & Code Editors
-![](https://img.shields.io/badge/Xcode-Software-green?style=flat&logo=xcode&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-Software-green?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-Software-green?style=flat&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/WebStorm-Software-green?style=flat&logo=webstorm&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-Software-green?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/CLion-Software-green?style=flat&logo=clion&logoColor=white)
+### Operating Systems & System Software
+![](https://img.shields.io/badge/Git-Software-green?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/macOS-OS-green?style=flat&logo=mac&logoColor=white)
+![](https://img.shields.io/badge/Unix-OS-green?style=flat&logo=unix&logoColor=white)
 
-### Social Media
+### IDEs & Code Editors
+![](https://img.shields.io/badge/Xcode-IDE-blue?style=flat&logo=xcode&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-IDE-blue?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-IDE-blue?style=flat&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/WebStorm-IDE-blue?style=flat&logo=webstorm&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-Software-blue?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/CLion-IDE-blue?style=flat&logo=clion&logoColor=white)
+
+## Social Media
 [Anime List](https://anilist.co/user/LiteLT/) | [Steam](https://steamcommunity.com/id/LiteLT/)
