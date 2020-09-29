@@ -43,8 +43,8 @@ I'm quite active on this site, but spend most of my time on Discord. If you'd li
 ![](https://img.shields.io/badge/IntelliJ_IDEA-IDE-blue?style=flat&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-IDE-blue?style=flat&logo=pycharm&logoColor=white)
 ![](https://img.shields.io/badge/WebStorm-IDE-blue?style=flat&logo=webstorm&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-Software-blue?style=flat&logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/CLion-IDE-blue?style=flat&logo=clion&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-Code%20Editor-blue?style=flat&logo=visual-studio-code&logoColor=white)
 
 ## Social Media
 [Anime List](https://anilist.co/user/LiteLT/) | [Steam](https://steamcommunity.com/id/LiteLT/)
