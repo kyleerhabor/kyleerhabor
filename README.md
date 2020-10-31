@@ -10,7 +10,7 @@ My favorite programming languages are Python & Rust. I'm currently devoting my t
 
 ## Projects
 
-Currently, I'm working on two open projects: **Anime Catalog** and **Amincio**. Both projects share a similar purpose (managing an anime list), but are diverse in many ways. You can compare both of them to a box. While Anime Catalog is a flashy box with not much in it, Amincio is a boring old box with a lot in it.
+Currently, I'm working on two open projects: [Anime Catalog][anime-catalog] and [Amincio][amincio]. Both projects share a similar purpose (managing an anime list), but are diverse in many ways. You can compare both of them to a box. While Anime Catalog is a flashy box with not much in it, Amincio is a boring old box with a lot in it.
 
 ## Social Media
 
@@ -29,14 +29,14 @@ In case you haven't noticed, I like anime... a lot. Check out my [AniList profil
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 
-#### Markup, Structural Languages
-
-![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
-
-#### SQL
+#### Languages - SQL
 <!-- Missing: RethinkDB & PostgreSQL -->
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-DBMS-red?style=flat&logo=sqlite&logoColor=white)
+
+#### Languages - Others
+
+![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 
 ### Frameworks
 <!-- Missing: Actix -->
@@ -67,3 +67,5 @@ In case you haven't noticed, I like anime... a lot. Check out my [AniList profil
 
 [anilist-profile]: https://anilist.co/user/LiteLT/
 [steam-profile]: https://steamcommunity.com/id/LiteLT/
+[anime-catalog]: https://github.com/LiteLT/Anime-Catalog-Apple
+[amincio]: https://github.com/LiteLT/Amincio
