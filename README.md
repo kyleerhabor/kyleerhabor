@@ -29,11 +29,11 @@ In case you haven't noticed, I like anime... a lot. Check out my [AniList profil
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 
-**Markup, Structural Language**
+#### Markup, Structural Languages
 
 ![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 
-**SQL**
+#### SQL
 <!-- Missing: RethinkDB & PostgreSQL -->
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-Language-red?style=flat&logo=sqlite&logoColor=white)
