@@ -36,7 +36,7 @@ In case you haven't noticed, I like anime... a lot. Check out my [AniList profil
 #### SQL
 <!-- Missing: RethinkDB & PostgreSQL -->
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-Language-red?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/SQLite-DBMS-red?style=flat&logo=sqlite&logoColor=white)
 
 ### Frameworks
 <!-- Missing: Actix -->
