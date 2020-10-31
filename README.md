@@ -51,7 +51,7 @@ In case you haven't noticed, I like anime... a lot. Check out my [AniList profil
 ![](https://img.shields.io/badge/Postman-Software-yellow?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Insomnia-Software-yellow?style=flat&logo=insomnia&logoColor=white)
 
-### System
+### Systems
 
 ![](https://img.shields.io/badge/macOS-OS-green?style=flat&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/Unix-OS-green?style=flat&logo=unix&logoColor=white)
