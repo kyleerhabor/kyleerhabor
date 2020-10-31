@@ -30,6 +30,7 @@ In case you haven't noticed, I like anime... a lot. Check out my [AniList profil
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 
 **Markup, Structural Language**
+
 ![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 
 **SQL**
