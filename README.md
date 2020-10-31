@@ -10,7 +10,7 @@ My favorite programming languages are Python & Rust. I'm currently devoting my t
 
 ## Projects
 
-Currently, I'm working on two open projects: **Anime Catalog** and **Amincio**. Both projects share a similar purpose (managing an anime list), but are diverse in many ways. It's like having two boxes that look the exact same, but one box is empty, while another box has some stuff in it.
+Currently, I'm working on two open projects: **Anime Catalog** and **Amincio**. Both projects share a similar purpose (managing an anime list), but are diverse in many ways. You can compare both of them to a box. While Anime Catalog is a flashy box with not much in it, Amincio is a boring old box with a lot in it.
 
 ## Social Media
 
