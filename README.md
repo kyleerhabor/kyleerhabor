@@ -8,13 +8,9 @@ In the beginning, I started learning how to code with HTML to try building a sim
 
 My favorite programming languages are Python & Rust. I'm currently devoting my time to diving deeper into Rust and looking for the next big "thing". :)
 
-## Projects
-
-Currently, I'm working on two open projects: [Anime Catalog][anime-catalog] and [Amincio][amincio]. Both projects share a similar purpose (managing an anime list), but are diverse in many ways. You can compare both of them to a box. While Anime Catalog is a flashy box with not much in it, Amincio is a boring old box with a lot in it.
-
 ## Social Media
 
-In case you haven't noticed, I like anime... a lot. Check out my [AniList profile][anilist-profile]. You may also be interested in my [Steam profile][steam-profile], but I don't use Steam all that much.
+Check out my [AniList profile][anilist-profile]. You may also be interested in my [Steam profile][steam-profile], but I don't use Steam all that much.
 
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
 ## Technologies
