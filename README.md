@@ -1,13 +1,17 @@
 # Hello!
 
-Hello, my name is Kyle. I go by Lite, LiteLT, and Moon online. I'm a high school student aspiring to be a software engineer and spend most of my time writing CLI apps, bots, and mobile apps. My favorite languages are Rust and Python and I'm experienced with a variety of tools and technologies, but affiliate myself with technology not bound to the web (SwiftUI, Flutter, CLI apps, etc.)
+Hello, my name is Kyle. I go by Lite, LiteLT, and Moon online. I'm a high school student aspiring to be a software
+engineer and spend most of my time writing CLI apps, bots, and mobile apps. My favorite languages are Rust and Python
+and I'm experienced with a variety of tools and technologies, but affiliate myself with technology not bound to the web
+(SwiftUI, Flutter, CLI apps, etc.)
 
 If you want to contact me, feel free to send me an email.
 
-<!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
 ## Technologies
+<!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
 
-The labels are sorted by experience from the leading to trailing edge. Leading means more experience (e.g. Python) and trailing means less experience (e.g. Java).
+The labels are sorted by experience from the leading to trailing edge. Leading means more experience (e.g. Python) and
+trailing means less experience (e.g. Java).
 
 ### Languages
 
