@@ -15,9 +15,9 @@ trailing means less experience (e.g. Java).
 
 ### Languages
 
-![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Swift-Language-red?style=flat&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Dart-Language-red?style=flat&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
