@@ -52,7 +52,7 @@ trailing means less experience (e.g. Java).
 ![](https://img.shields.io/badge/macOS-OS-green?style=flat&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/Unix-OS-green?style=flat&logo=unix&logoColor=white)
 
-### Development Tools
+### Tools
 
 ![](https://img.shields.io/badge/Xcode-IDE-blue?style=flat&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/CLion-IDE-blue?style=flat&logo=clion&logoColor=white)
