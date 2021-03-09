@@ -35,8 +35,9 @@ trailing means less experience (e.g. Java).
 
 ### Frameworks
 
-![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
+<!-- Update logo to SwiftUI simpleicons adds it -->
 ![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
 
 ### Software
