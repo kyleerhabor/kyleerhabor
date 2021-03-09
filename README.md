@@ -7,7 +7,7 @@ If you want to contact me, feel free to send me an email.
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
 ## Technologies
 
-The labels are sorted left to right based on experience.
+The labels are sorted by experience from the leading to trailing edge. Leading means more experience (e.g. Python) and trailing means less experience (e.g. Java).
 
 ### Languages
 
@@ -33,6 +33,7 @@ The labels are sorted left to right based on experience.
 
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
 
 ### Software
 
