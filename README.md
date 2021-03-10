@@ -34,30 +34,39 @@ trailing means less experience (e.g. Java).
 ![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 
 ### Frameworks
-
-<!-- Update logo to SwiftUI simpleicons adds it -->
+<!-- SwiftUI does not have its own icon -->
 ![](https://img.shields.io/badge/SwiftUI-Framework-orange?style=flat&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Apollo-Framework-orange?style=flat&logo=apollo-graphql&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Deno-Framework-orange?style=flat&logo=deno&logoColor=white)
 
 ### Software
 
 ![](https://img.shields.io/badge/Git-Software-yellow?style=flat&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Homebrew-Software-yellow?style=flat&logo=homebrew&logoColor=white)
 ![](https://img.shields.io/badge/Insomnia-Software-yellow?style=flat&logo=insomnia&logoColor=white)
 ![](https://img.shields.io/badge/Postman-Software-yellow?style=flat&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/cURL-Software-yellow?style=flat&logo=curl&logoColor=white)
+
+### Package Managers
+<!-- Swift Packager Manager does not have its own icon -->
+<!-- NPM is not respecting the logoColor parameter -->
+![](https://img.shields.io/badge/Swift%20Package%20Manager-Package%20Manager-seagreen?style=flat&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Cargo-Package%20Manager-seagreen?style=flat&logo=cargo&logoColor=white)
+![](https://img.shields.io/badge/npm-Package%20Manager-seagreen?style=flat&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Homebrew-Package%20Manager-seagreen?style=flat&logo=homebrew&logoColor=white)
 
 ### Systems
 
-![](https://img.shields.io/badge/macOS-OS-green?style=flat&logo=macos&logoColor=white)
-![](https://img.shields.io/badge/iOS-OS-green?style=flat&logo=ios&logoColor=white)
-![](https://img.shields.io/badge/Unix-OS-green?style=flat&logo=unix&logoColor=white)
+![](https://img.shields.io/badge/macOS-OS-cornflowerblue?style=flat&logo=macos&logoColor=white)
+![](https://img.shields.io/badge/iOS-OS-cornflowerblue?style=flat&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/Unix-OS-cornflowerblue?style=flat&logo=unix&logoColor=white)
 
 ### Tools
 
-![](https://img.shields.io/badge/Xcode-IDE-blue?style=flat&logo=xcode&logoColor=white)
-![](https://img.shields.io/badge/CLion-IDE-blue?style=flat&logo=clion&logoColor=white)
-![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-blue?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-blue?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-IDE-blue?style=flat&logo=pycharm&logoColor=white)
-![](https://img.shields.io/badge/WebStorm-IDE-blue?style=flat&logo=webstorm&logoColor=white)
+![](https://img.shields.io/badge/Xcode-IDE-mediumpurple?style=flat&logo=xcode&logoColor=white)
+![](https://img.shields.io/badge/CLion-IDE-mediumpurple?style=flat&logo=clion&logoColor=white)
+![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-mediumpurple?style=flat&logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ%20IDEA-IDE-mediumpurple?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-IDE-mediumpurple?style=flat&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/WebStorm-IDE-mediumpurple?style=flat&logo=webstorm&logoColor=white)
