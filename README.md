@@ -1,8 +1,8 @@
 # Hello!
 
 Hello, my name is Kyle. I go by Lite, LiteLT, and Moon online. I'm a high school student aspiring to be a software
-engineer and spend most of my time writing CLI apps, bots, and mobile apps. My favorite languages are Rust and Python
-and I'm experienced with a variety of tools and technologies, but affiliate myself with technology not bound to the web
+engineer and spend my time writing CLI apps, bots, and mobile apps. My favorite languages are Rust and Python and I'm
+experienced with a variety of tools and technologies, but affiliate myself with technology not bound to the web
 (SwiftUI, Flutter, CLI apps, etc.)
 
 If you want to contact me, feel free to send me an email.
@@ -44,12 +44,13 @@ trailing means less experience (e.g. Java).
 
 ![](https://img.shields.io/badge/Git-Software-yellow?style=flat&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Homebrew-Software-yellow?style=flat&logo=homebrew&logoColor=white)
-![](https://img.shields.io/badge/Postman-Software-yellow?style=flat&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Insomnia-Software-yellow?style=flat&logo=insomnia&logoColor=white)
+![](https://img.shields.io/badge/Postman-Software-yellow?style=flat&logo=postman&logoColor=white)
 
 ### Systems
 
 ![](https://img.shields.io/badge/macOS-OS-green?style=flat&logo=macos&logoColor=white)
+![](https://img.shields.io/badge/iOS-OS-green?style=flat&logo=ios&logoColor=white)
 ![](https://img.shields.io/badge/Unix-OS-green?style=flat&logo=unix&logoColor=white)
 
 ### Tools
