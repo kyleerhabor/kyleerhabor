@@ -1,4 +1,4 @@
-# Hello!
+# Heya!
 
 Hello, my name is Kyle. I go by Lite, LiteLT, and Moon online. I'm a high school student aspiring to be a software
 engineer and spend my time writing CLI apps, bots, and mobile apps. My favorite languages are Rust and Python and I'm
