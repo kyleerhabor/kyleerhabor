@@ -1,11 +1,10 @@
 # Heya!
 
 Hello, my name is Kyle. I go by Lite, LiteLT, and Moon online. I'm a high school student aspiring to be a software
-engineer and spend my time writing CLI apps, bots, and mobile apps. My favorite languages are Rust and Python and I'm
-experienced with a variety of tools and technologies, but affiliate myself with technology not bound to the web
-(SwiftUI, Flutter, CLI apps, etc.)
+engineer and spend my time writing CLI apps, bots, and mobile apps. I'm experienced with a variety of tools and
+technologies, but affiliate myself with technology not bound to the web (SwiftUI, Flutter, CLI apps, etc.)
 
-If you want to contact me, feel free to send me an email.
+If you'd like to contact me, feel free to send me an email.
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
