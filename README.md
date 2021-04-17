@@ -21,6 +21,7 @@ trailing means less experience (e.g. Java).
 ![](https://img.shields.io/badge/Dart-Language-red?style=flat&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Clojure-Language-red?style=flat&logo=clojure&logoColor=white)
 
 #### Languages - SQL
 
