@@ -10,15 +10,15 @@ If you'd like to contact me, feel free to send me an email.
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
 
 The labels listed exclusively document well-known technologies I'm proficient with, sorted by experience from the
-leading (e.g. Rust) to trailing edge (e.g. Clojure).
+leading (e.g. Swift) to trailing edge (e.g. Clojure).
 
 ### Languages
 
 ![](https://img.shields.io/badge/Swift-Language-red?style=flat&logo=swift&logoColor=white)
 ![](https://img.shields.io/badge/Rust-Language-red?style=flat&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/Python-Language-red?style=flat&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Dart-Language-red?style=flat&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Clojure-Language-red?style=flat&logo=clojure&logoColor=white)
