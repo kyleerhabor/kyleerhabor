@@ -60,6 +60,6 @@ The labels represent notable technologies I'm experienced with, sorted from the 
 
 ![](https://img.shields.io/badge/Xcode-IDE-cornflowerblue?style=flat&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-cornflowerblue?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/JetBrains-IntelliJ%20Dialects-cornflowerblue?style=flat&logo=clion&logoColor=white)
+![](https://img.shields.io/badge/JetBrains-IntelliJ%20Derivations-cornflowerblue?style=flat&logo=clion&logoColor=white)
 
 <!-- Next section color: darkorchid -->
