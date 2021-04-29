@@ -9,8 +9,8 @@ If you'd like to contact me, feel free to send me an email.
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
 
-The listed labels exclusively document notable technologies I'm proficient with, sorted by experience from the
-leading (e.g. Swift) to trailing edge (e.g. Clojure).
+The labels represent notable technologies I'm experienced with, sorted from the
+leading (e.g. Swift) to trailing edge (e.g. Clojure) by experience.
 
 ### Languages
 
@@ -21,6 +21,7 @@ leading (e.g. Swift) to trailing edge (e.g. Clojure).
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/Clojure-Language-red?style=flat&logo=clojure&logoColor=white)
 
 #### Languages - Databases
