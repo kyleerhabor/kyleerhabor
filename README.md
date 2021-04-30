@@ -52,8 +52,8 @@ The labels represent notable technologies I'm experienced with, sorted from the 
 
 ### Systems
 
-![](https://img.shields.io/badge/macOS-OS-seagreen?style=flat&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/iOS-OS-seagreen?style=flat&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/macOS-OS-seagreen?style=flat&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/Unix-OS-seagreen?style=flat&logo=unix&logoColor=white)
 
 ### Tools
