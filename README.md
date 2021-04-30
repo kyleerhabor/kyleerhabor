@@ -13,9 +13,8 @@ If you'd like to contact me, feel free to send me an email.
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
-
-The labels represent notable technologies I'm experienced with, sorted from the leading (e.g. Swift) to trailing edge
-(e.g. Clojure) by experience.
+The labels represent notable technologies I'm experienced with, sorted by experience from the leading (e.g. Swift) to
+trailing edge (e.g. Clojure).
 
 ### Languages
 
