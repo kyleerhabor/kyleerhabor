@@ -64,6 +64,6 @@ trailing edge (e.g. Clojure).
 
 ![](https://img.shields.io/badge/Xcode-IDE-cornflowerblue?style=flat&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-cornflowerblue?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/JetBrains-IntelliJ%20Derivations-cornflowerblue?style=flat&logo=clion&logoColor=white)
+![](https://img.shields.io/badge/JetBrains-IntelliJ%20Derivations-cornflowerblue?style=flat&logo=jetbrains&logoColor=white)
 
 <!-- Next section color: darkorchid -->
