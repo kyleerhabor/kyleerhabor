@@ -4,8 +4,8 @@ Hey, My name is Kyle. I've adopted the names Lite, LiteLT, and Moon online. I'm 
 developer aiming to be a software engineer.
 
 I develop mobile apps, command-line interface apps, bots, backend systems, and more. I've developed numerous projects,
-most of which are private, archived, or deleted. I don't have many projects worth sharing, but I hope to in the
-future. Lastly, I occasionally contribute to open-source software and plan to contribute more often.
+most of which are private, archived, or deleted. I occasionally contribute to open-source software and plan to contribute
+more often.
 
 If you'd like to contact me, feel free to send me an email.
 
