@@ -1,10 +1,15 @@
 # Heya!
 
-Hello, my name is Kyle. I go by Lite, LiteLT, and Moon online. I'm a high school student aspiring to be a software
-engineer and spend my time writing CLI apps, bots, mobile apps, and backend systems. I'm experienced with a variety of
-tools and technologies, but prefer to work with technology not bound to the web (SwiftUI, Flutter, CLI apps, etc.)
+Hey, My name is Kyle. I've adopted the names Lite, LiteLT, and Moon online. I'm a high school student and software
+developer aiming to be a software engineer.
+
+I develop mobile apps, command-line interface apps, bots, backend systems, and more. I've developed numerous projects,
+most of which are private, archived, or deleted. I don't have many projects worth sharing, but I hope to in the
+future. Lastly, I occasionally contribute to open-source software and plan to contribute more often.
 
 If you'd like to contact me, feel free to send me an email.
+
+***"Listen to your desires." -Me***
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
