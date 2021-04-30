@@ -1,6 +1,6 @@
 # Heya!
 
-Hey, my name is **Kyle**, but I'm also known as **Lite** and **LiteLT** online. I'm a high school student and software
+Hey, my name is **Kyle**, but I'm known as **Lite** online. I'm a high school student and software
 developer aiming to be a software engineer.
 
 I develop mobile apps, command-line interface apps, bots, backend systems, and more. I've developed numerous projects,
