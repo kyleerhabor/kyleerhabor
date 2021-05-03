@@ -1,6 +1,6 @@
 # Heya!
 
-I am Kyle Erhabor, a 17-year-old software developer. I'm known as Lite and LiteLT online. I'm a high school student pursuing a software engineer career.
+I am Kyle Erhabor, a 17-year-old software developer. I'm known as Lite and LiteLT online. I'm a high school student pursuing a software engineering career.
 
 I develop mobile apps, command-line interface apps, bots, backend systems, and more. I've developed numerous projects,
 most of which are private, archived, or deleted. I occasionally contribute to open-source software and plan to contribute
