@@ -29,8 +29,8 @@ trailing edge (e.g. Clojure).
 
 #### Languages - Databases
 
-![](https://img.shields.io/badge/SQLite-SQL-red?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-SQL-red?style=flat&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-SQL-red?style=flat&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/RethinkDB-NoSQL-red?style=flat&logo=rethinkdb&logoColor=white)
 
 #### Languages - Others
