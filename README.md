@@ -8,7 +8,7 @@ more often.
 
 If you'd like to contact me, feel free to send me an email.
 
-***"Listen to your desires." -Me***
+***"Listen to your desires."***
 
 ## Technologies
 <!-- ![](https://img.shields.io/badge/?-?-??style=flat&logo=?&logoColor=white) -->
