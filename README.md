@@ -42,6 +42,7 @@ trailing edge (e.g. Clojure).
 ![](https://img.shields.io/badge/Apollo-Framework-orange?style=flat&logo=apollo-graphql&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-Framework-orange?style=flat&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-Framework-orange?style=flat&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Actix%20Web-Framework-orange?style=flat&logo=actix&logoColor=white)
 ![](https://img.shields.io/badge/Deno-Framework-orange?style=flat&logo=deno&logoColor=white)
 
 ### Software
