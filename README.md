@@ -1,10 +1,11 @@
 # Heya!
 
-I am Kyle Erhabor, a 17-year-old software developer. I'm known as Lite and LiteLT online. I'm a high school student
-pursuing a software engineering career.
+I'm Kyle Erhabor, a 17-year-old software developer. I go under the pseudonyms Lite and LiteLT online. I'm a high school
+student pursuing a software engineering career.
 
-I develop mobile apps, command-line apps, bots, backend systems, and more. I've developed numerous projects, most of
-which are private, archived, or deleted. I occasionally contribute to open-source software.
+I develop mobile applications, front & backend systems, command-line applications, bots, and more. I've worked on
+numerous projects, more of which are private, archived, or deleted. I predominantly work with systems programming
+languages (e.g. Rust & Swift) and occasionally contribute to open-source software.
 
 If you'd like to contact me, feel free to send me an email.
 
@@ -27,7 +28,7 @@ trailing edge (e.g. Clojure).
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/Clojure-Language-red?style=flat&logo=clojure&logoColor=white)
 
-#### Languages - Others
+#### Languages | Others
 
 ![](https://img.shields.io/badge/GraphQL-Language-red?style=flat&logo=graphql&logoColor=white)
 
