@@ -25,6 +25,7 @@ trailing edge (e.g. Clojure).
 ![](https://img.shields.io/badge/JavaScript-Language-red?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-Language-red?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Java-Language-red?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-Language-red?style=flat&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/SQL-Language-red?style=flat&logo=sql&logoColor=white)
 ![](https://img.shields.io/badge/Clojure-Language-red?style=flat&logo=clojure&logoColor=white)
 
