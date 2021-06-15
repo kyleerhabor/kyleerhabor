@@ -1,4 +1,4 @@
-# Heya!
+# Heya! ![earth][earth-file]
 
 I'm Kyle Erhabor, a 17-year-old software developer. I go under the pseudonyms Lite and LiteLT online. I'm a high school
 student pursuing a software engineering career.
@@ -68,4 +68,4 @@ trailing edge (e.g. Clojure).
 ![](https://img.shields.io/badge/JetBrains-IntelliJ%20Derivatives-mediumpurple?style=flat&logo=jetbrains&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-Code%20Editor-mediumpurple?style=flat&logo=visual-studio-code&logoColor=white)
 
-<!-- Next section color: darkorchid -->
+[earth-file]: ./earth.gif
