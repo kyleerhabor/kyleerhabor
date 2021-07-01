@@ -4,8 +4,8 @@ I'm Kyle Erhabor, a 17-year-old software developer. I go under the pseudonyms Kl
 student pursuing a software engineering career.
 
 I develop mobile applications, front & backend systems, command-line applications, bots, and more. I've worked on
-numerous projects, more of which are private, archived, or deleted. I predominantly work with systems programming
-languages (e.g. Rust & Swift) and occasionally contribute to open-source software.
+numerous projects, most of which are private, archived, or no longer exist. I predominantly work with systems and
+functional programming languages (Clojure, Rust, Swift, etc.) and occasionally contribute to open-source software.
 
 If you'd like to contact me, feel free to send me an email.
 
