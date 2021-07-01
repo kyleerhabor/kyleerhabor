@@ -1,6 +1,6 @@
 # Heya! ![earth][earth-file]
 
-I'm Kyle Erhabor, a 17-year-old software developer. I go under the pseudonyms Lite and LiteLT online. I'm a high school
+I'm Kyle Erhabor, a 17-year-old software developer. I go under the pseudonyms Klay and Lite online. I'm a high school
 student pursuing a software engineering career.
 
 I develop mobile applications, front & backend systems, command-line applications, bots, and more. I've worked on
