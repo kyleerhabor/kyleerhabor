@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Kyle Erhabor, a 17-year-old software developer. I go under the pseudonyms Klay and Lite online. I spend my days
+I'm Kyle Erhabor, a 17-year-old software developer. I'm known under the pseudonym Klay online. I spend my days
 studying and developing software.
 
 - *"Every class has its own little language."*
